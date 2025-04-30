@@ -1,8 +1,10 @@
 cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
 authors:
-    family-names: Dufeu
-    given-names: Chloe
-title: Phosphine
-version: 1.0.0
+- family-names: "Dufeu"
+  given-names: "Chloe"
+title: "Phosphine"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
 date-released: 2025-04-30
-repository-code: https://github.com/Chloedufeu/Phosphine
+url: "https://github.com/Chloedufeu/Phosphine"
